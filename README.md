@@ -4,7 +4,7 @@ INFO ON WEBSITE:
 
 **This is a Website where you can report a bully and whatever he /she did to  you. You can also send the report to your teacher if you feel uncomfortable to talk directly .**
 
-**The user can select his/her grade and the bully's name. He can explain it to an AI and describe what exactly happened. The report will be downloaded to your compu**
+**The user can select his/her grade and the bully's name. He can explain it to an AI and describe what exactly happened. The report will be downloaded to your computer**
 
 HOW TO USE THE WEBSITE:
 
@@ -17,7 +17,7 @@ THEME:
 
 **Wellbeing \& Safety**
 
-* **we have selected this theme because bullying has become a major threat to innocent students.**
+* **we have selected this theme because bullying has become a major threat to students.**
 
 
 
