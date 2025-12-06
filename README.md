@@ -11,7 +11,7 @@ HOW TO USE THE WEBSITE:
 * **Enter your name.**
 * **Select the bully's  grade**
 * **Select the person who bullied you(the names will be selected on their behaviour throughout their whole year)**
-* **tell ai what happened**
+* **Tell AI what happened**
 
 
 
