@@ -1,0 +1,79 @@
+/* --- STYLE SECTION: Makes things look nice --- */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+}
+
+/* This box holds the whole app */
+.app-box {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    /* Centers the box */
+    padding: 20px;
+    border: 4px solid darkblue;
+    border-radius: 20px;
+}
+
+
+
+/* We hide sections until we need them */
+.hidden {
+    display: none
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+/* Buttons look like blue capsules */
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px
+}
+
+input {
+    padding: 10px;
+    width: 70%;
+    font-size: 16px;
+}
+
+/* The chat window */
+#chatbox {
+    height: 200px;
+    border: 2px solid grey;
+    overflow-y: scroll;
+        /* Allows scrolling */
+    text-align: left;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+/* Images for students */
+img {
+    width: 80px;
+    border-radius: 50%;
+    /* Makes image round */
+    cursor: pointer;
+}
+
+/* The box that shows the AI opinion */
+#opinionBox {
+    padding: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px dashed black;
+    background-color: yellow;
+}
