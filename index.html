@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Safety App</title>
+</head>
+<body>
+
+    <div class="app-box">
+        <h1>Safety Reporting Tool</h1>
+
+        <div id="part1">
+            <h3>Step 1: What is your name?</h3>
+            <input type="text" id="myInputName" placeholder="Type your name...">
+            <br><br>
+            <button onclick="gotoPart2()">Next</button>
+        </div>
+
+        <div id="part2" class="hidden">
+            <h3>Step 2: Who bullied you?</h3>
+            <p>Click on the person's picture:</p>
+
+            <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Sam" onclick="startChat('Sam')">
+            <p>Sam (Grade 9)</p>
+            
+            <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Alex" onclick="startChat('Alex')">
+            <p>Alex (Grade 9)</p>
+
+            <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan" onclick="startChat('Jordan')">
+            <p>Jordan (Grade 8)</p>
+        </div>
+
+        <div id="part3" class="hidden">
+            <h3>Step 3: Chat with AI</h3>
+            
+            <div id="chatBox"></div>
+            
+            <input type="text" id="userMessage" placeholder="Type answer here...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+
+        <div id="part4" class="hidden">
+            <h3>Step 4: Report Status</h3>
+            <div id="opinionBox">...</div>
+            <p>The report has been downloaded to your computer.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
