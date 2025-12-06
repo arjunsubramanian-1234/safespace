@@ -1,5 +1,18 @@
- # safespace
-hackathon project by team amazing coders.
-our topic is wellbeing and safety.
-it is a website where you can report a bully who did anything to you.
-it is a nice website.
+# **NextGen Safe**
+
+INFO ON WEBSITE:
+
+**This is a Website where you can report a bully and whatever he /she did to  you. You can also send the report to your teacher if you feel uncomfortable to talk directly .**
+
+**The user can select his/her grade and the bully's name. He can explain it to an AI and describe what exactly happened. The report will be downloaded to your compu**
+
+HOW TO USE THE WEBSITE:
+
+* **Enter your name.**
+* **Select the bully's  grade**
+* **Select the person who bullied you(the names will be selected on their behaviour throughout their whole year)**
+* **tell ai what happened**
+
+
+
+
