@@ -19,5 +19,5 @@ THEME:
 
 * **We have selected this theme because bullying has become a major threat to innocent students.**
 * **Due to bullying victims also die and bullies get juvenile detention.**
-* 
+* **thing**
 * 
