@@ -17,7 +17,7 @@ THEME:
 
 **Wellbeing \& Safety**
 
-* **We have selected this theme because bullying has become a major threat to innocent students.**
+* **We have selected this theme because bullying has become a major threat to students.**
 * **Due to bullying victims also die and bullies get juvenile detention.**
 * **Also mental health is disturbed by them.**
 * **Bullies also get away with what they did and dont get what they deserve.**
