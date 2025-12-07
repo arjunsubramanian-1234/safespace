@@ -8,10 +8,10 @@ INFO ON WEBSITE:
 
 HOW TO USE THE WEBSITE:
 
-* **Enter your name.**
-* **Select the bully's  grade**
-* **Select the person who bullied you(the names will be selected on their behaviour throughout their whole year)**
-* **Tell AI what happened**
+* **Enter your name or leave empty for anonymous.**
+* **Select the bully's name and grade.**
+* **Tell AI what happened.**
+* **The report will be downloaded to your computer.**
 
 THEME:
 
