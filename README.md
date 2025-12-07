@@ -27,4 +27,8 @@ THEME:
 * **HTML**
 * **CSS**
 * **JS**
+
+  Problem Statement:
+
+  **Victims of bullying often lack a safe and simple way to report incidents, leading to underreporting and continued harm.**
   
